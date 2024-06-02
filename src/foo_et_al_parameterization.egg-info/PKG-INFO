@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: foo-et-al-parameterization
-Version: 0.0.2
+Version: 0.0.8
 Summary: A basic python library to gain the volume of a sphere given its radius
 Author-email: Aidan Goldstein <goldstai@oregonstate.edu>
 Project-URL: Homepage, https://github.com/aidangold/foo-et-al-parameterization
@@ -32,5 +32,5 @@ pip install foo-et-al-parameterization
 Don't forget to import before using in a file!
 
 ```bash
-from foo-et-al-parameterization import sphere_volume
+from foo_et_al_parameterization import SphereVolume
 ```

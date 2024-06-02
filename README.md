@@ -19,5 +19,5 @@ pip install foo-et-al-parameterization
 Don't forget to import before using in a file!
 
 ```bash
-from foo-et-al-parameterization import sphere_volume
+from foo_et_al_parameterization import SphereVolume
 ```
