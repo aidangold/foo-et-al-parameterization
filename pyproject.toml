@@ -1,6 +1,6 @@
 [project]
 name = "foo-et-al-parameterization"
-version = "0.0.9"
+version = "0.0.10"
 authors = [
   { name ="Aidan Goldstein", email="goldstai@oregonstate.edu" },
 ]
