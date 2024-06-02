@@ -15,3 +15,9 @@ You can install the package via pip:
 
 ```bash
 pip install foo-et-al-parameterization
+```
+Don't forget to import before using in a file!
+
+```bash
+from foo-et-al-parameterization import sphere_volume
+```
