@@ -4,7 +4,17 @@ import math
 
 
 def sphere_volume(radius):
-    """ sphere_volume takes a given numerical value radius as a parameter of a sphere
-    and returns the total volume of the sphere. """
+    """
+     Returns volume of a sphere given its radius.
 
-    return 4.0 / 3.0 * math.pi * (radius ** 3)
+     Parameter: radius of a sphere (int or float).
+
+     Returns: volume of sphere (float).
+     """
+
+    if radius < 0:
+        raise ValueError("A radius cannot be negative value.")
+
+    radius = float(radius)
+
+    return (4.0 / 3.0) * math.pi * (radius ** 3)
