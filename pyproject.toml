@@ -4,9 +4,6 @@ version = "0.0.1"
 authors = [
   { name ="Aidan Goldstein", email="goldstai@oregonstate.edu" },
 ]
-maintainers = [
-    { name = "", email = "" }
-]
 description = "A basic python library to gain the volume of a sphere given its radius"
 readme = "README.md"
 requires-python = ">=3.8"
