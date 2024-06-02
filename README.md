@@ -1,5 +1,15 @@
-# Example Package
+# foo-et-al-parameterization
 
-This is a simple example package. You can use
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+![PyPI](https://pypi.org/project/foo-et-al-parameterization/)
+![License](https://github.com/aidangold/foo-et-al-parameterization/blob/master/LICENSE)
+
+## Description
+
+foo-et-al-parameterization is a python softwarepackage that allows the translation of a given radius of a sphere to the volume value of that spehere.
+
+## Installation
+
+You can install the package via pip:
+
+```bash
+pip install foo-et-al-parameterization
