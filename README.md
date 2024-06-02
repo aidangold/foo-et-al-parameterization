@@ -5,7 +5,9 @@
 
 ## Description
 
-foo-et-al-parameterization is a python softwarepackage that allows the translation of a given radius of a sphere to the volume value of that spehere.
+foo-et-al-parameterization is a python software package that allows the translation of a given radius of a sphere to the volume value of that spehere.
+
+This is a community focused project that is open source and values all contributions to improvements.
 
 ## Installation
 
