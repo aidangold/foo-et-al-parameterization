@@ -1,7 +1,7 @@
 # foo-et-al-parameterization
 
-![PyPI](https://pypi.org/project/foo-et-al-parameterization/)
-![License](https://github.com/aidangold/foo-et-al-parameterization/blob/master/LICENSE)
+[PyPI](https://pypi.org/project/foo-et-al-parameterization/)
+[License](https://github.com/aidangold/foo-et-al-parameterization/blob/master/LICENSE)
 
 ## Description
 
